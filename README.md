@@ -62,5 +62,5 @@ This project requires the Arduino IDE and the following external library:
 
 ## 📄 License
 
-This project is licensed under the [MIT / GPL v3] License - see the LICENSE file for details. 
-*(Note: Be sure to update this section based on the license you choose on GitHub!)*
+This project is licensed under the MIT License - see the LICENSE file for details. 
+
